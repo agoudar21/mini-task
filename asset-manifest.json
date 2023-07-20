@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mini-task/static/css/main.ad035271.css",
+    "main.js": "/mini-task/static/js/main.c71bdf47.js",
+    "index.html": "/mini-task/index.html",
+    "main.ad035271.css.map": "/mini-task/static/css/main.ad035271.css.map",
+    "main.c71bdf47.js.map": "/mini-task/static/js/main.c71bdf47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad035271.css",
+    "static/js/main.c71bdf47.js"
+  ]
+}
