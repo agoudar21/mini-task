@@ -1,0 +1,12 @@
+.select-container{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    border: 2px solid rgb(54, 50, 50);
+    flex: 5;
+}
+
+.select-item{
+    /* border: 2px solid rgb(230, 213, 213); */
+    flex: 1;
+}
