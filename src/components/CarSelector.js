@@ -75,6 +75,7 @@ const CarSelector = () => {
               <option value="Toyota">Toyota</option>
               <option value="Honda">Honda</option>
               <option value="Ford">Ford</option>
+              <option value="Tata">Tata</option>
             </select>
           </div>
         </div>
@@ -88,6 +89,7 @@ const CarSelector = () => {
                 {brand === "Toyota" && <option value="Japan">Japan</option>}
                 {brand === "Honda" && <option value="Japan">Japan</option>}
                 {brand === "Ford" && <option value="USA">USA</option>}
+                {brand === "Tata" && <option value="India">INDIA</option>}
               </select>
             )}
           </div>
